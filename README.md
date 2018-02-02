@@ -1,4 +1,4 @@
-# taskone
+# Task One
 * Create a public git repo on github.com
 * Clone the repo locally (command line)
 * Create a readme.md
